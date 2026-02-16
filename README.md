@@ -38,7 +38,8 @@ I believe in:
 ## ⚡ Fun Fact
 I fix one bug and unlock two new ones.  
 Character development is real.
-If something breaks, it was probably intentional.or maybe not
+
+If something breaks, it was probably intentional.or maybe not.
 
 <!--
 **Hkp102004/Hkp102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
