@@ -25,9 +25,20 @@ I believe in:
 
 ---
 
+
+## 🛠 Tech I Use
+- C# / Unity
+- React.js
+- JavaScript
+- HTML / CSS
+
+---
+
+
 ## ⚡ Fun Fact
 I fix one bug and unlock two new ones.  
 Character development is real.
+If something breaks, it was probably intentional.or maybe not
 
 <!--
 **Hkp102004/Hkp102004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
