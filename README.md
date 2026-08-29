@@ -68,19 +68,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hkp102004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hkp102004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hkp102004&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
-<p align="center">
-  <i>Building things that look as good as they work — one repo at a time.</i>
+  <i>Idk what I'm doing but I'm doing something for sure.</i>
 </p>
