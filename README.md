@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Hekey 👋</h1>
+<h1 align="center">Hey, I'm Hekey</h1>
 <h3 align="center">Full-Stack Developer • Game Developer • BTech Student</h3>
 
 <p align="center">
@@ -14,12 +14,9 @@
 
 ### 🚀 About Me
 
-- 🎓 BTech student, always building something on the side
-- 💻 Full-stack web dev — comfortable across the whole MERN stack
-- 🎮 Also building games in Unity, with an eye on Unreal Engine 5 next
-- 🌌 Into a consistent aesthetic: near-black backgrounds, neon-blue glow, pill-shaped UI
-- 🌱 Exploring freelancing with my dev skills
-
+- BTech student, always building something on the side
+- Full-stack web dev — comfortable across the whole MERN stack
+- Also building games in Unity, with an eye on Unreal Engine 5 next
 ---
 
 ### 🛠️ Tech Stack
